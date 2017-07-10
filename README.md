@@ -1,3 +1,3 @@
 # Studying-
-This project to track studying algorithm 
+Algorithm exercises
 Date 10/07/2017
